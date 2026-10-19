@@ -1,0 +1,39 @@
+{
+  "name": "audio-radar-dsh",
+  "version": "1.0.0",
+  "description": "Windows endpoint-loopback audio direction radar for accessibility and DeepSeek Harness workflows.",
+  "bin": {
+    "audio-radar": "bin/audio-radar.js"
+  },
+  "files": [
+    "bin/audio-radar.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "keywords": [
+    "audio",
+    "accessibility",
+    "wasapi",
+    "radar",
+    "windows",
+    "deepseek-harness"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MicroHEROX/audio-radar.git"
+  },
+  "homepage": "https://github.com/MicroHEROX/audio-radar#readme",
+  "bugs": {
+    "url": "https://github.com/MicroHEROX/audio-radar/issues"
+  }
+}

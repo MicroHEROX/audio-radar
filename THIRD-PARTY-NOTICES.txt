@@ -1,0 +1,20 @@
+Audio Radar third-party notices
+
+Audio Radar is MIT-licensed. It is built with and may redistribute the
+following runtime components:
+
+1. .NET Runtime 8
+   Copyright (c) .NET Foundation and Contributors
+   License: MIT
+   https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+
+2. Microsoft Windows APIs and headers
+   Used through public Windows APIs and documentation. No Windows source code
+   is included in this repository.
+
+3. Windows Forms
+   Part of the .NET runtime; MIT licensed.
+
+Audio Radar does not include Dolby, DTS, Kimi, RTSS, or game engine binaries.
+Dolby, Atmos, DTS, Windows, DeepSeek Harness, and Kimi are trademarks of their
+respective owners.

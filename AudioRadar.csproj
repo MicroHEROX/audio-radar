@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ApplicationHighDpiMode>DpiUnaware</ApplicationHighDpiMode>
+
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InformationalVersion>1.0.0</InformationalVersion>
+    <Product>Audio Radar</Product>
+    <Description>Real-time multichannel endpoint-loopback audio direction radar for Windows.</Description>
+    <Authors>MicroHEROX</Authors>
+    <Company>MicroHEROX</Company>
+    <Copyright>Copyright (c) 2026 MicroHEROX</Copyright>
+    <RepositoryUrl>https://github.com/MicroHEROX/audio-radar</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MicroHEROX/audio-radar</PackageProjectUrl>
+    <PackageTags>audio;accessibility;wasapi;radar;windows;deepseek-harness</PackageTags>
+  </PropertyGroup>
+
+</Project>

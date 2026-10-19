@@ -1,0 +1,12 @@
+bin/
+obj/
+artifacts/
+.vs/
+*.user
+*.suo
+*.wav
+probe.txt
+selftest.txt
+capture*.txt
+node_modules/
+npm/*.tgz
