@@ -215,6 +215,7 @@ Audio Radar **不依赖** Kimi。如果你为了浏览器自动化安装过 Kimi
 | 项目 | 值 |
 |---|---|
 | Audio Radar | 1.0.0 |
+| npm 启动器 | 1.0.1 |
 | 测试系统 | Windows 10.0.26300 x64 |
 | 运行时 | .NET 8（源码）；Release 自包含 |
 | DeepSeek Harness | 44.7.0（测试环境） |

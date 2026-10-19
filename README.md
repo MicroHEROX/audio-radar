@@ -215,6 +215,7 @@ These documents live in the GitHub repository. They are deliberately excluded fr
 | Item | Value |
 |---|---|
 | Audio Radar | 1.0.0 |
+| npm launcher | 1.0.1 |
 | Tested OS | Windows 10.0.26300 x64 |
 | Runtime | .NET 8 (source); self-contained release |
 | DeepSeek Harness | 44.7.0 (test environment) |

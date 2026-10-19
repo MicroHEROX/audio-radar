@@ -1,6 +1,6 @@
 {
   "name": "audio-radar-dsh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Windows endpoint-loopback audio direction radar for accessibility and DeepSeek Harness workflows.",
   "bin": {
     "audio-radar": "bin/audio-radar.js"
@@ -37,3 +37,4 @@
     "url": "https://github.com/MicroHEROX/audio-radar/issues"
   }
 }
+

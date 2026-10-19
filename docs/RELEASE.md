@@ -7,7 +7,7 @@ Audio Radar uses semantic versioning. The current release is **1.0.0**.
 - Package/assembly version: `1.0.0`
 - Git tag: `v1.0.0`
 - Release ZIP: `AudioRadar-1.0.0-win-x64.zip`
-- npm package: `audio-radar-dsh@1.0.0`
+- npm package: `audio-radar-dsh@1.0.1` (launcher; downloads Audio Radar 1.0.0)
 
 ## Compatibility
 
