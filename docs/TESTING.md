@@ -60,22 +60,24 @@ left rear 135° → right rear 135° → left 90° → right 90° → silence
 
 ## Release installation test
 
-After publishing a GitHub Release:
+Published release: <https://github.com/MicroHEROX/audio-radar/releases/tag/v1.0.0>
 
-1. download the release ZIP from the public URL;
-2. extract to a clean temporary directory;
-3. run `AudioRadar.exe --probe probe.txt`;
+The following was verified against the public release:
+
+1. download `AudioRadar-1.0.0-win-x64.zip` from GitHub;
+2. verify SHA-256 against `SHA256SUMS.txt`;
+3. extract to a clean temporary directory;
 4. run `AudioRadar.exe --selftest selftest.txt`;
-5. start the UI and verify the overlay opens.
+5. confirm `RESULT: PASS`.
 
-Test the npm package separately:
+The npm launcher was verified against the public release:
 
 ```bash
 npm install -g audio-radar-dsh
 audio-radar --selftest selftest.txt
 ```
 
-The npm launcher must download only the release runtime ZIP, not repository docs.
+The npm tarball contains only `package.json`, `bin/audio-radar.js`, package README, and license. It does not contain repository docs.
 
 ## Windows overlay checks
 

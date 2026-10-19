@@ -14,6 +14,7 @@
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-0078D6">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-8-512BD4">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-yellow">
+  <a href="https://github.com/MicroHEROX/audio-radar/releases/tag/v1.0.0"><img alt="Download" src="https://img.shields.io/badge/Download-1.0.0-2ea44f?style=flat-square"></a>
 </p>
 
 ![Audio Radar](docs/screenshot.png)
