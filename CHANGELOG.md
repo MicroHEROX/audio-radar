@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 — npm launcher
+
+- Fixed npm first-run download to use the Windows system proxy via PowerShell.
+- Added SHA-256 verification for the downloaded release ZIP.
+- Launcher downloads Audio Radar 1.0.0.
+
 ## 1.0.0 — 2026-10-19
 
 Initial public release.
